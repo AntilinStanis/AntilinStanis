@@ -11,7 +11,7 @@
 - 🧑‍💻 **Software Engineer @ Centizen Inc**
 - 🎯 Focused on **Backend & Full-Stack Development**
 - 🌱 Currently learning **System Design, Data Structures, and Algorithms**
-- 🌐 Portfolio: [senthil-dev.web.app](https://senthil-dev.web.app/)
+- 🌐 Portfolio: [stanish.info](https://stanish.info)
 - 📧 Reach me at: `antilinstanish@gmail.com`
 
 ---
