@@ -9,10 +9,10 @@
 ## 🚀 About Me
 
 - 🧑‍💻 **Software Engineer @ Centizen Inc**
-- 🎯 Focused on **Frontend & Full-Stack Development**
-- 🌱 Currently learning **cloud-native development & AI tools**
+- 🎯 Focused on **Backend & Full-Stack Development**
+- 🌱 Currently learning **System Design, Data Structures, and Algorithms**
 - 🌐 Portfolio: [senthil-dev.web.app](https://senthil-dev.web.app/)
-- 📧 Reach me at: `senthilkumar.techdev.@gmail.com`
+- 📧 Reach me at: `antilinstanish@gmail.com`
 
 ---
 
@@ -79,8 +79,8 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/senthilkumar-dev/">
-    <img src="https://leetcard.jacoblin.cool/senthilkumar-dev?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/antilinstanish/">
+    <img src="https://leetcard.jacoblin.cool/antilinstanish?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
